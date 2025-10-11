@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CNPM\\WindowsFormsApp2 (2)\\WindowsFormsApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1CB8A6-186B-4BE7-8779-1EC6CE408113}|WindowsFormsApp2\\WindowsFormsApp2.csproj|d:\\cnpm\\windowsformsapp2 (2)\\windowsformsapp2\\windowsformsapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1CB8A6-186B-4BE7-8779-1EC6CE408113}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1CB8A6-186B-4BE7-8779-1EC6CE408113}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\CNPM\\WindowsFormsApp2 (2)\\WindowsFormsApp2\\windowsformsapp2\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1CB8A6-186B-4BE7-8779-1EC6CE408113}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1CB8A6-186B-4BE7-8779-1EC6CE408113}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\CNPM\\WindowsFormsApp2 (2)\\WindowsFormsApp2\\windowsformsapp2\\formmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1CB8A6-186B-4BE7-8779-1EC6CE408113}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\formmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1CB8A6-186B-4BE7-8779-1EC6CE408113}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\CNPM\\WindowsFormsApp2 (2)\\WindowsFormsApp2\\windowsformsapp2\\formmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A1CB8A6-186B-4BE7-8779-1EC6CE408113}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\formmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dangnhap.cs",
+              "DocumentMoniker": "D:\\CNPM\\WindowsFormsApp2 (2)\\WindowsFormsApp2\\WindowsFormsApp2\\Dangnhap.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Dangnhap.cs",
+              "ToolTip": "D:\\CNPM\\WindowsFormsApp2 (2)\\WindowsFormsApp2\\WindowsFormsApp2\\Dangnhap.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Dangnhap.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAADwv40AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T18:16:19.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CNPM\\WindowsFormsApp2 (2)\\WindowsFormsApp2\\WindowsFormsApp2\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Program.cs",
+              "ToolTip": "D:\\CNPM\\WindowsFormsApp2 (2)\\WindowsFormsApp2\\WindowsFormsApp2\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T18:15:56.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMainMenu.cs",
+              "DocumentMoniker": "D:\\CNPM\\WindowsFormsApp2 (2)\\WindowsFormsApp2\\WindowsFormsApp2\\FormMainMenu.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\FormMainMenu.cs",
+              "ToolTip": "D:\\CNPM\\WindowsFormsApp2 (2)\\WindowsFormsApp2\\WindowsFormsApp2\\FormMainMenu.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\FormMainMenu.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwDYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T18:08:29.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMainMenu.cs [Design]",
+              "DocumentMoniker": "D:\\CNPM\\WindowsFormsApp2 (2)\\WindowsFormsApp2\\WindowsFormsApp2\\FormMainMenu.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\FormMainMenu.cs",
+              "ToolTip": "C:\\Users\\PHAM NAM\\Downloads\\WindowsFormsApp2\\WindowsFormsApp2\\FormMainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T18:05:57.492Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+C:\Users\Mr. Thuc\source\repos\project_final\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Mr. Thuc\source\repos\project_final\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Mr. Thuc\source\repos\project_final\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Mr. Thuc\source\repos\project_final\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Guna.UI2.dll
+C:\Users\Mr. Thuc\source\repos\project_final\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Mr. Thuc\source\repos\project_final\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Mr. Thuc\source\repos\project_final\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Mr. Thuc\source\repos\project_final\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Mr. Thuc\source\repos\project_final\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Thuc\source\repos\project_final\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsF.EA766B00.Up2Date
+C:\Users\Mr. Thuc\source\repos\project_final\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Mr. Thuc\source\repos\project_final\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Mr. Thuc\source\repos\project_final\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+C:\Users\Mr. Thuc\source\repos\project_final\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Guna.UI2.dll
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsF.EA766B00.Up2Date
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Gioithieu.resources
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Dangnhap.resources
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Dangky.resources
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Main.resources
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Database1.mdf
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Database1_log.ldf
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Quenmatkhau.resources
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\GiuaKy_Bangoc\bin\Debug\Database1.mdf
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\GiuaKy_Bangoc\bin\Debug\Database1_log.ldf
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\GiuaKy_Bangoc\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\GiuaKy_Bangoc\bin\Debug\WindowsFormsApp2.exe
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\GiuaKy_Bangoc\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\GiuaKy_Bangoc\bin\Debug\Guna.UI2.dll
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\GiuaKy_Bangoc\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\GiuaKy_Bangoc\obj\Debug\WindowsFormsApp2.exe.config
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\GiuaKy_Bangoc\obj\Debug\WindowsFormsApp2.Gioithieu.resources
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\GiuaKy_Bangoc\obj\Debug\WindowsFormsApp2.Dangnhap.resources
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\GiuaKy_Bangoc\obj\Debug\WindowsFormsApp2.Dangky.resources
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\GiuaKy_Bangoc\obj\Debug\WindowsFormsApp2.Main.resources
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\GiuaKy_Bangoc\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\GiuaKy_Bangoc\obj\Debug\WindowsFormsApp2.Quenmatkhau.resources
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\GiuaKy_Bangoc\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\GiuaKy_Bangoc\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\GiuaKy_Bangoc\obj\Debug\WindowsF.EA766B00.Up2Date
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\GiuaKy_Bangoc\obj\Debug\WindowsFormsApp2.exe
+C:\Users\win\Downloads\GiuaKy\WindowsFormsApp2\WindowsFormsApp2\GiuaKy_Bangoc\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PHAM NAM\Downloads\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Database1.mdf
+C:\Users\PHAM NAM\Downloads\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PHAM NAM\Downloads\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PHAM NAM\Downloads\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PHAM NAM\Downloads\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Guna.UI2.dll
+C:\Users\PHAM NAM\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PHAM NAM\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+C:\Users\PHAM NAM\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Gioithieu.resources
+C:\Users\PHAM NAM\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Dangnhap.resources
+C:\Users\PHAM NAM\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Dangky.resources
+C:\Users\PHAM NAM\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Main.resources
+C:\Users\PHAM NAM\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PHAM NAM\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Quenmatkhau.resources
+C:\Users\PHAM NAM\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PHAM NAM\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PHAM NAM\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsF.EA766B00.Up2Date
+C:\Users\PHAM NAM\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PHAM NAM\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PHAM NAM\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormMainMenu.resources
+C:\Users\PHAM NAM\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Forms.FormCustomers.resources
+C:\Users\PHAM NAM\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Forms.FormNotifications.resources
+C:\Users\PHAM NAM\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Forms.FormOrders.resources
+C:\Users\PHAM NAM\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Forms.FormProduct.resources
+C:\Users\PHAM NAM\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Forms.FormReporting.resources
+C:\Users\PHAM NAM\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Forms.FormSetting.resources
+D:\CNPM\WindowsFormsApp2 (2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Database1.mdf
+D:\CNPM\WindowsFormsApp2 (2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\CNPM\WindowsFormsApp2 (2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\CNPM\WindowsFormsApp2 (2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\CNPM\WindowsFormsApp2 (2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Guna.UI2.dll
+D:\CNPM\WindowsFormsApp2 (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\CNPM\WindowsFormsApp2 (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+D:\CNPM\WindowsFormsApp2 (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormMainMenu.resources
+D:\CNPM\WindowsFormsApp2 (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Forms.FormCustomers.resources
+D:\CNPM\WindowsFormsApp2 (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Forms.FormNotifications.resources
+D:\CNPM\WindowsFormsApp2 (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Forms.FormOrders.resources
+D:\CNPM\WindowsFormsApp2 (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Forms.FormProduct.resources
+D:\CNPM\WindowsFormsApp2 (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Forms.FormReporting.resources
+D:\CNPM\WindowsFormsApp2 (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Forms.FormSetting.resources
+D:\CNPM\WindowsFormsApp2 (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Gioithieu.resources
+D:\CNPM\WindowsFormsApp2 (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Dangnhap.resources
+D:\CNPM\WindowsFormsApp2 (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Dangky.resources
+D:\CNPM\WindowsFormsApp2 (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Main.resources
+D:\CNPM\WindowsFormsApp2 (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\CNPM\WindowsFormsApp2 (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Quenmatkhau.resources
+D:\CNPM\WindowsFormsApp2 (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\CNPM\WindowsFormsApp2 (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\CNPM\WindowsFormsApp2 (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsF.EA766B00.Up2Date
+D:\CNPM\WindowsFormsApp2 (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\CNPM\WindowsFormsApp2 (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\CNPM\WindowsFormsApp2 (2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Database1_log.ldf
